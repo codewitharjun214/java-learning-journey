@@ -1,0 +1,18 @@
+java development kit
+
+java development tools - javac , jheap ,java 
+
+
+
+java runtime enviroment 
+
+
+
+jvm - java virtual machine 
+
+set of java libraries 
+
+other files http://127.0.0.1:3000/index.html
+
+
+
