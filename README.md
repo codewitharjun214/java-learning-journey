@@ -12,11 +12,6 @@ From **basics → OOP → DSA → Projects**, everything I practice daily is pus
 - 🎓 A journey from **beginner → advanced Java developer**  
 - 📊 Learning stats & progress visible through commits  
 
----
 
-![GitHub Streak](https://streak-stats.demolab.com?user=codewitharjun214&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=tokyonight&hide_border=true)  
-
----
 
 ⭐ If you find this repo useful or inspiring, **star it** and follow my journey!  
